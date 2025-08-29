@@ -1,6 +1,6 @@
 # Book Finder
 
-A simple website to find your next book to read and book recomondations. An internship project of [iNeuron](https://ineuron.com) .
+A simple website to find your next book to read and book recomondations. [iNeuron](https://ineuron.com) .
 
 [Live Demo](https://pb2204-book-finder.netlify.app/)
 
@@ -15,4 +15,4 @@ A simple website to find your next book to read and book recomondations. An inte
 - TailwindCSS
 
 # Author
-[Pabitra Banerjee](https://github.com/pb2204)
+[sampath kumar]
